@@ -23,7 +23,7 @@ stats for later use:
 
 -->
 # 💫 About Me:
-Technion Student | CS enthusiast<br>🔭 Student at the Technion University in the Odyssey Program.<br>⚡ Odyssey is a program for gifted and outstanding students that allows you to start academic studies in parallel to studying in high school.<br>🌱 I’m currently learning cpp applications<br>💬 Tell me about Machine Learning, NLP, Neural Networks and Math!<br>- looking for an Entry level job. <br>
+Technion Student | ML enthusiast<br>🔭 Graduate of The Odyssey Program in the Technion University.<br>⚡Psagot student.<br>🌱 I’m currently learning new PL and data stracturs <br>💬 Tell me about Machine Learning, NLP, Neural Networks and Math!<br>
 
 
 ## 🌐 Socials:
