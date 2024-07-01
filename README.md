@@ -23,7 +23,7 @@ stats for later use:
 
 -->
 # 💫 About Me:
-Technion Student | ML enthusiast<br>🔭 Graduate of The Odyssey Program in the Technion University.<br>⚡Psagot student.<br>🌱 I’m currently learning new PL and data stracturs <br>💬 Tell me about Machine Learning, NLP, Neural Networks and Math!<br>
+Technion Student | ML enthusiast<br>🔭 Graduate of The Odyssey Program in the Technion University.<br>⚡Psagot student.<br>🌱 I’m currently learning new PL and data structures <br>💬 Tell me about Machine Learning, NLP, Neural Networks and Math!<br>
 
 
 ## 🌐 Socials:
