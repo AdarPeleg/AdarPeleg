@@ -46,9 +46,7 @@ Technion Student | ML Enthusiast<br>🔭 Graduate of The Odyssey Program at Tech
 
 # 🏆 Achievements:
 - 🎓 Graduate of The Odyssey Program at Technion University.
-- 🏅 Recognized for excellence in [specific project or competition].
-- 📜 Certified in [specific course or platform, e.g., "Machine Learning by Stanford University"].
-
+  
 ---
 
 # 🔧 In Progress:
